@@ -73,4 +73,3 @@ Special thanks to all the contributors and the open-source community for their s
 
 ## Contact
 For any questions, feel free to reach out to the project maintainer, Nishchal Gaba, at nishgaba.ai@gmail.com.
-
