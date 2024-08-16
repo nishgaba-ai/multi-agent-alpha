@@ -46,7 +46,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.8'  # Adjust this to match your project's Python version
+        python-version: '3.12'  # Adjust this to match your project's Python version
 
     - name: Install Poetry
       run: |

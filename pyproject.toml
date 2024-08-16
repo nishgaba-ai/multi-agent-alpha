@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "multi-agent-alpha"
-version = "0.1.1"
+version = "0.1.2"
 description = "Multi Agents Alpha is a robust, open-source framework designed for building, managing, and deploying intelligent multi-agent systems. This package provides a flexible and modular architecture that allows developers to create custom agents equipped with various tools and capabilities, all while ensuring best practices in code quality, testing, and continuous integration. With built-in support for non-commercial use, strict adherence to PEP standards, and a strong focus on community contributions, Agents Repo is ideal for both academic research and non-commercial projects. Whether you're developing AI-driven workflows or experimenting with new agent-based models, this package offers the foundation you need to build sophisticated, scalable agent systems with ease."
 authors = ["Nishchal Gaba <nishgaba.ai@gmail.com>"]
 license = "CC-BY-NC-4.0"
