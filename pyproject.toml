@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "multi-agent-alpha"
-version = "0.1.2"
+version = "0.1.3"
 description = "Multi-Agent Alpha is a robust, open-source framework for building, managing, and deploying intelligent multi-agent systems. It provides a flexible architecture for creating custom agents, with a focus on code quality, testing, and continuous integration."
 authors = ["Nishchal Gaba <nishgaba.ai@gmail.com>"]
 license = "CC-BY-NC-4.0"
