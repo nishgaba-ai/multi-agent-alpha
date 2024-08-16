@@ -11,7 +11,7 @@ python = "^3.12"
 requests = "^2.31.0"
 pydantic = "^2.2.1"
 langchain = "^0.2.14"
-numpy = "^2.0.1"
+numpy = "^1.26.0"
 pandas = "^2.2.2"
 fastapi = "^0.112.1"
 
